@@ -1,0 +1,12 @@
+h1 {
+    /* color: blue; /* declaracion */
+    /* color: rgba(0, 0, 0, 50%); */
+    /* color: rgb(0 0 0 / 50%); */
+    /* color: hsl(60, 100%, 100%); */
+    color: oklch(348 83% 44% / 50%);
+
+}
+
+selector {
+    propiedad: valor; /* declaracion */
+}
