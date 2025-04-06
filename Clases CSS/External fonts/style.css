@@ -1,0 +1,22 @@
+p {
+  color: red;
+  font-family: Johan; /* Cambia la tipografia*/
+  font-size: 13px; /*Tamaño del texto*/
+  font-weight: bold; /*El gruesor del texto*/
+  font-style: italic; /**/
+  text-align: justify; /*Aliniar el texto*/
+  text-decoration: underline;
+  line-height: 1.5; /*Tamaño de la linea*/
+  letter-spacing: 1px; /*Cual separada va a estar la letra*/
+  text-transform: uppercase;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+span {
+  text-decoration: line-through;
+  color: blue;
+}
